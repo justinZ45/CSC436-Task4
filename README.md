@@ -2,13 +2,13 @@
 
 ## Task:
 
-*Add to the < SearchBar / > component a button that will do the following:
+* Add to the < SearchBar / > component a button that will do the following:
 
-*On the first click, sort the movies in ASCENDING ORDER based on movie length
+* On the first click, sort the movies in ASCENDING ORDER based on movie length
 
-*On the second click, sort the movies in DESCENDING ORDER based on movie length
+* On the second click, sort the movies in DESCENDING ORDER based on movie length
 
-*Subsequent clicks should alternate (e.g. 3rd ASCENDING, 4th, DESCENDING, etc.)
+* Subsequent clicks should alternate (e.g. 3rd ASCENDING, 4th, DESCENDING, etc.)
 
 
 ## Screenshots
